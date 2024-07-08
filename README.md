@@ -13,15 +13,10 @@ Project Specifications
 3. Create a ***head*** section that includes a title element with the text "My Resume".
 
 4. Inside the ***body*** section, write HTML code to create an online resume covering the following aspects:
-
 > - ***Summary*** or objective statement
-
 > - ***Education*** (list degrees, schools, and dates)
-
 > - ***Work experience*** (list job titles, employers, dates, and responsibilities)
-
 > - ***Skills*** (list relevant skills or areas of expertise)
-
 > - Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)
 
 5. Use appropriate HTML tags to format the content of each section, such as ***h1*** for section headings and ***ul*** or ***ol*** for lists.
